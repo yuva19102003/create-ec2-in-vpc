@@ -1,6 +1,8 @@
 # Creating EC2 Instance in VPC
 
 This guide will walk you through the steps to create an EC2 instance within a Virtual Private Cloud (VPC) on AWS. By following these instructions, you'll be able to launch an EC2 instance in a secure and isolated network environment.
+## FLOWCHART
+
 
 ## Prerequisites
 Before you begin, make sure you have the following:
